@@ -1,0 +1,132 @@
+*{
+    
+    color: #D6D6D6;
+    font-family: Courier New;
+}
+
+body{
+    background-image: linear-gradient(#2c2b30, #4f4f51);
+}
+.mainpic{
+    height: 200px;
+    width: 200px;
+    float:center;
+    margin-left: 50px;
+    border-radius: 50%;
+    
+    
+}
+
+.icon{
+    height: 28px;
+    width: 28px;
+}
+
+a{
+    display: block;
+    color: #f2c4ce;
+    text-align: center;
+    
+}
+
+.myinfo{
+    height: 380px;
+    width: 100%;   
+}
+
+.contactinfo{
+   display:block;
+    text-align: center;
+    width: 270px;
+   
+    
+}
+
+.contactinfo a{
+    display: inline-block;
+    margin-top: 0px;
+ 
+   
+}
+
+.contactinfo h3{
+    margin-bottom: 0px;
+}
+.aboutme{
+    width: 70%;
+    float: right;
+}
+
+.myportfolio{
+  height: 900px;
+    width: 100%;
+    float: center;    
+}
+
+.cisc3115{
+    
+  
+    float: right;
+   width: 38%;
+    margin-left: 7px;
+  
+   
+    
+}
+
+.cisc3130{
+    float: left;
+  width:58%;
+    
+
+    
+  
+}
+
+
+h1, h2, h3, p, h4, p1{
+    display: block;
+    text-align: center; 
+    font-weight: normal;   
+    
+}
+
+
+
+h2, h3{
+    color: #f58f7c;
+}
+
+
+
+.cisc3130-a{
+   
+   
+    
+    margin-bottom: 3px;
+    
+    background-color: #4f4f51;
+}
+
+p3{
+    display: block;
+    background-color: #4f4f51;
+    text-align: center;
+}
+
+.cisc3115 a{
+    background-color: #4f4f51;
+}
+
+h4{
+   
+    color: #f58f7c;
+}
+
+hr{
+    color: #f58f7c;
+    size: 2px;
+    width: 100%;
+   
+   
+}
